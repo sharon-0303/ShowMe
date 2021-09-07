@@ -16,5 +16,5 @@ Step 2. Add the dependency
 /****** In gradle app level ******/
 
 dependencies {
-	        implementation 'com.github.srinath-Dev:ShowMe-SrinathDev:Tag'
+	        implementation 'com.github.srinath-Dev:ShowMe-SrinathDev:1.0'
 	}
